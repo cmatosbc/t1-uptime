@@ -4,19 +4,19 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1845,
-    "timeDay": 1845,
-    "timeWeek": 1845,
-    "timeMonth": 1845,
-    "timeYear": 1845,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 2021,
+    "timeDay": 2021,
+    "timeWeek": 2021,
+    "timeMonth": 2021,
+    "timeYear": 2021,
     "dailyMinutesDown": {
-      "2025-09-13": 0
+      "2025-09-13": 11
     }
   },
   {
