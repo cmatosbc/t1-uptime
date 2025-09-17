@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 1828,
-    "timeDay": 1686,
-    "timeWeek": 1828,
-    "timeMonth": 1828,
-    "timeYear": 1828,
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 1774,
+    "timeDay": 1567,
+    "timeWeek": 1774,
+    "timeMonth": 1774,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2025-09-15": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1248,
-    "timeWeek": 1248,
-    "timeMonth": 1248,
-    "timeYear": 1248,
+    "time": 1136,
+    "timeDay": 1136,
+    "timeWeek": 1136,
+    "timeMonth": 1136,
+    "timeYear": 1136,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
-    "time": 1371,
-    "timeDay": 1371,
-    "timeWeek": 1371,
-    "timeMonth": 1371,
-    "timeYear": 1371,
-    "dailyMinutesDown": {
-      "2025-09-16": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1338,
+    "timeDay": 1338,
+    "timeWeek": 1338,
+    "timeMonth": 1338,
+    "timeYear": 1338,
+    "dailyMinutesDown": {}
   }
 ]
