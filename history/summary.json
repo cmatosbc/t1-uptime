@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1832,
-    "timeDay": 1987,
-    "timeWeek": 1832,
-    "timeMonth": 1832,
-    "timeYear": 1832,
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 1822,
+    "timeDay": 1853,
+    "timeWeek": 1822,
+    "timeMonth": 1822,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2025-09-15": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 812,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 791,
+    "timeDay": 365,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,19 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 848,
-    "timeWeek": 1070,
-    "timeMonth": 1070,
-    "timeYear": 1070,
-    "dailyMinutesDown": {}
+    "time": 877,
+    "timeDay": 383,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
+    "dailyMinutesDown": {
+      "2025-09-18": 0
+    }
   }
 ]
