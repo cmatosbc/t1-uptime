@@ -10,11 +10,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
-    "time": 1822,
-    "timeDay": 1853,
-    "timeWeek": 1822,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "time": 1831,
+    "timeDay": 1892,
+    "timeWeek": 1831,
+    "timeMonth": 1831,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2025-09-15": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
+    "time": 789,
     "timeDay": 365,
-    "timeWeek": 791,
-    "timeMonth": 791,
-    "timeYear": 791,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 383,
-    "timeWeek": 877,
-    "timeMonth": 877,
-    "timeYear": 877,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 888,
+    "timeDay": 418,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2025-09-18": 0
+      "2025-09-18": 9
     }
   }
 ]
