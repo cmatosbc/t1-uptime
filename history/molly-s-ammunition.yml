@@ -1,7 +1,7 @@
 url: https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450
-status: degraded
-code: 500
-responseTime: 23436
-lastUpdated: 2025-09-22T21:20:41.769Z
+status: up
+code: 200
+responseTime: 3914
+lastUpdated: 2025-09-22T21:29:02.653Z
 startTime: 2025-09-16T05:51:03.007Z
 generator: Upptime <https://github.com/upptime/upptime>
