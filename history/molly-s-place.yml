@@ -1,7 +1,7 @@
 url: https://www.mollys.com
-status: degraded
-code: 500
-responseTime: 12808
-lastUpdated: 2025-09-22T21:18:51.395Z
+status: up
+code: 200
+responseTime: 584
+lastUpdated: 2025-09-22T21:28:50.327Z
 startTime: 2025-09-12T12:55:57.250Z
 generator: Upptime <https://github.com/upptime/upptime>
