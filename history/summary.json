@@ -11,9 +11,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.48%",
     "time": 1185,
-    "timeDay": 1066,
-    "timeWeek": 986,
-    "timeMonth": 1087,
+    "timeDay": 1103,
+    "timeWeek": 991,
+    "timeMonth": 1088,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-11-21": 325,
@@ -31,15 +31,15 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=footwear&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
-    "status": "degraded",
-    "uptime": "96.67%",
-    "uptimeDay": "96.02%",
+    "status": "up",
+    "uptime": "96.63%",
+    "uptimeDay": "96.20%",
     "uptimeWeek": "91.20%",
     "uptimeMonth": "93.48%",
-    "uptimeYear": "96.67%",
+    "uptimeYear": "96.63%",
     "time": 3900,
-    "timeDay": 3960,
-    "timeWeek": 4058,
+    "timeDay": 3922,
+    "timeWeek": 4055,
     "timeMonth": 4073,
     "timeYear": 3900,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
       "2025-10-17": 27,
       "2025-10-16": 16,
       "2025-10-15": 104,
-      "2025-10-14": 20
+      "2025-10-14": 65
     }
   },
   {
@@ -95,8 +95,8 @@
     "uptimeMonth": "98.27%",
     "uptimeYear": "98.35%",
     "time": 3605,
-    "timeDay": 3982,
-    "timeWeek": 3829,
+    "timeDay": 3981,
+    "timeWeek": 3830,
     "timeMonth": 3893,
     "timeYear": 3605,
     "dailyMinutesDown": {
