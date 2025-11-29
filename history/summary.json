@@ -11,9 +11,9 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.48%",
     "time": 1181,
-    "timeDay": 1316,
+    "timeDay": 1320,
     "timeWeek": 1090,
-    "timeMonth": 1114,
+    "timeMonth": 1113,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2025-11-26": 23,
@@ -34,17 +34,17 @@
     "slug": "molly-s-footwear",
     "status": "up",
     "uptime": "96.02%",
-    "uptimeDay": "60.52%",
-    "uptimeWeek": "87.65%",
-    "uptimeMonth": "91.25%",
+    "uptimeDay": "61.47%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "96.02%",
     "time": 3954,
-    "timeDay": 6562,
-    "timeWeek": 4512,
+    "timeDay": 6566,
+    "timeWeek": 4513,
     "timeMonth": 4193,
     "timeYear": 3954,
     "dailyMinutesDown": {
-      "2025-11-28": 569,
+      "2025-11-28": 555,
       "2025-11-27": 78,
       "2025-11-26": 487,
       "2025-11-25": 43,
@@ -79,7 +79,7 @@
       "2025-10-24": 72,
       "2025-10-22": 51,
       "2025-10-21": 43,
-      "2025-10-20": 16
+      "2025-10-20": 31
     }
   },
   {
@@ -94,8 +94,8 @@
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.60%",
     "time": 3653,
-    "timeDay": 5609,
-    "timeWeek": 4297,
+    "timeDay": 5614,
+    "timeWeek": 4298,
     "timeMonth": 4015,
     "timeYear": 3653,
     "dailyMinutesDown": {
