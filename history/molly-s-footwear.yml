@@ -1,7 +1,7 @@
 url: https://mollys.com/shop/?yith_wcan=1&product_cat=footwear&inventory=1450
-status: up
+status: degraded
 code: 200
-responseTime: 4329
-lastUpdated: 2025-12-08T20:44:07.015Z
+responseTime: 7234
+lastUpdated: 2025-12-08T20:55:55.277Z
 startTime: 2025-09-16T05:50:59.659Z
 generator: Upptime <https://github.com/upptime/upptime>
