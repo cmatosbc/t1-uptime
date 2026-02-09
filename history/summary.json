@@ -11,9 +11,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.64%",
     "time": 1119,
-    "timeDay": 1034,
-    "timeWeek": 993,
-    "timeMonth": 905,
+    "timeDay": 1003,
+    "timeWeek": 990,
+    "timeMonth": 910,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2026-01-30": 62,
@@ -37,18 +37,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "94.22%",
-    "time": 4071,
-    "timeDay": 2807,
-    "timeWeek": 2732,
+    "uptime": "94.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "94.24%",
+    "time": 4067,
+    "timeDay": 2695,
+    "timeWeek": 2735,
     "timeMonth": 2600,
-    "timeYear": 4071,
+    "timeYear": 4067,
     "dailyMinutesDown": {
-      "2026-02-08": 14,
       "2026-01-30": 62,
       "2026-01-27": 30,
       "2026-01-24": 30,
@@ -84,7 +83,7 @@
       "2025-12-08": 71,
       "2025-12-07": 47,
       "2025-12-06": 99,
-      "2025-12-05": 16
+      "2025-12-05": 40
     }
   },
   {
@@ -93,18 +92,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "up",
-    "uptime": "96.24%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "96.24%",
-    "time": 3598,
-    "timeDay": 2539,
-    "timeWeek": 2542,
-    "timeMonth": 2387,
-    "timeYear": 3598,
+    "uptime": "96.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "96.25%",
+    "time": 3595,
+    "timeDay": 2468,
+    "timeWeek": 2533,
+    "timeMonth": 2389,
+    "timeYear": 3595,
     "dailyMinutesDown": {
-      "2026-02-08": 14,
       "2026-01-30": 62,
       "2026-01-27": 30,
       "2026-01-24": 29,
@@ -134,7 +132,8 @@
       "2025-12-09": 64,
       "2025-12-08": 122,
       "2025-12-07": 55,
-      "2025-12-06": 81
+      "2025-12-06": 81,
+      "2025-12-05": 20
     }
   }
 ]
