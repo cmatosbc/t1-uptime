@@ -8,12 +8,12 @@
     "uptime": "93.10%",
     "uptimeDay": "90.09%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "93.94%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "93.10%",
     "time": 1040,
-    "timeDay": 293,
-    "timeWeek": 359,
-    "timeMonth": 448,
+    "timeDay": 289,
+    "timeWeek": 326,
+    "timeMonth": 450,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "96.53%",
-    "uptimeDay": "89.61%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "96.53%",
+    "uptime": "96.50%",
+    "uptimeDay": "81.24%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "96.50%",
     "time": 3924,
-    "timeDay": 3793,
-    "timeWeek": 3784,
-    "timeMonth": 3733,
+    "timeDay": 3744,
+    "timeWeek": 3783,
+    "timeMonth": 3731,
     "timeYear": 3924,
     "dailyMinutesDown": {
       "2025-12-08": 45,
@@ -107,7 +107,7 @@
       "2026-04-13": 51,
       "2026-04-14": 54,
       "2026-05-22": 77,
-      "2026-05-26": 150
+      "2026-05-26": 270
     }
   },
   {
@@ -115,15 +115,15 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "degraded",
-    "uptime": "97.71%",
-    "uptimeDay": "90.20%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "97.71%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "81.84%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "97.67%",
     "time": 3404,
-    "timeDay": 4183,
-    "timeWeek": 3524,
+    "timeDay": 4298,
+    "timeWeek": 3525,
     "timeMonth": 3140,
     "timeYear": 3404,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
       "2026-03-06": 63,
       "2026-03-12": 54,
       "2026-04-13": 50,
-      "2026-05-26": 141
+      "2026-05-26": 262
     }
   }
 ]
