@@ -4,16 +4,16 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "up",
-    "uptime": "93.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "93.12%",
+    "status": "down",
+    "uptime": "93.13%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "93.13%",
     "time": 1040,
-    "timeDay": 283,
-    "timeWeek": 361,
-    "timeMonth": 436,
+    "timeDay": 255,
+    "timeWeek": 355,
+    "timeMonth": 446,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -46,7 +46,8 @@
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
-      "2026-04-11": 722
+      "2026-04-11": 722,
+      "2026-05-26": 19
     }
   },
   {
@@ -54,19 +55,19 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=footwear&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
-    "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "96.56%",
+    "status": "down",
+    "uptime": "96.57%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "96.57%",
     "time": 3924,
-    "timeDay": 3978,
-    "timeWeek": 3764,
-    "timeMonth": 3745,
+    "timeDay": 3974,
+    "timeWeek": 3784,
+    "timeMonth": 3736,
     "timeYear": 3924,
     "dailyMinutesDown": {
-      "2025-12-08": 71,
+      "2025-12-08": 45,
       "2025-12-09": 40,
       "2025-12-10": 276,
       "2025-12-11": 175,
@@ -105,7 +106,8 @@
       "2026-03-19": 65,
       "2026-04-13": 51,
       "2026-04-14": 54,
-      "2026-05-22": 77
+      "2026-05-22": 77,
+      "2026-05-26": 10
     }
   },
   {
@@ -113,19 +115,18 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.74%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.74%",
     "time": 3404,
-    "timeDay": 3833,
-    "timeWeek": 3432,
-    "timeMonth": 3127,
+    "timeDay": 3872,
+    "timeWeek": 3484,
+    "timeMonth": 3133,
     "timeYear": 3404,
     "dailyMinutesDown": {
-      "2025-12-07": 17,
       "2025-12-08": 122,
       "2025-12-09": 64,
       "2025-12-10": 276,
@@ -159,7 +160,8 @@
       "2026-03-05": 55,
       "2026-03-06": 63,
       "2026-03-12": 54,
-      "2026-04-13": 50
+      "2026-04-13": 50,
+      "2026-05-26": 2
     }
   }
 ]
