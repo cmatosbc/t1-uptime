@@ -8,7 +8,7 @@
     "uptime": "93.11%",
     "uptimeDay": "90.09%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "94.85%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "93.11%",
     "time": 1040,
     "timeDay": 401,
@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "96.49%",
-    "uptimeDay": "76.00%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "96.49%",
+    "uptime": "96.48%",
+    "uptimeDay": "72.34%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "96.48%",
     "time": 3924,
     "timeDay": 3888,
     "timeWeek": 3788,
@@ -108,7 +108,7 @@
       "2026-04-14": 54,
       "2026-05-22": 77,
       "2026-05-26": 335,
-      "2026-05-27": 10
+      "2026-05-27": 63
     }
   },
   {
@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "77.24%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "97.67%",
+    "uptime": "97.66%",
+    "uptimeDay": "73.58%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "97.66%",
     "time": 3404,
     "timeDay": 4105,
     "timeWeek": 3536,
@@ -163,7 +163,7 @@
       "2026-03-12": 54,
       "2026-04-13": 50,
       "2026-05-26": 326,
-      "2026-05-27": 2
+      "2026-05-27": 54
     }
   }
 ]
