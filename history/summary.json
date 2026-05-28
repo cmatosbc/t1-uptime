@@ -4,16 +4,16 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "down",
-    "uptime": "93.02%",
-    "uptimeDay": "78.77%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "93.02%",
+    "status": "up",
+    "uptime": "92.98%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "92.98%",
     "time": 1039,
-    "timeDay": 223,
-    "timeWeek": 290,
-    "timeMonth": 457,
+    "timeDay": 221,
+    "timeWeek": 289,
+    "timeMonth": 456,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -49,7 +49,7 @@
       "2026-04-11": 722,
       "2026-05-26": 143,
       "2026-05-27": 253,
-      "2026-05-28": 251
+      "2026-05-28": 385
     }
   },
   {
@@ -58,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "96.11%",
-    "uptimeDay": "58.87%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "96.11%",
+    "uptime": "96.07%",
+    "uptimeDay": "48.27%",
+    "uptimeWeek": "79.28%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "96.07%",
     "time": 3923,
-    "timeDay": 2063,
-    "timeWeek": 3737,
-    "timeMonth": 3687,
+    "timeDay": 1958,
+    "timeWeek": 3735,
+    "timeMonth": 3684,
     "timeYear": 3923,
     "dailyMinutesDown": {
       "2025-12-09": 23,
@@ -110,7 +110,7 @@
       "2026-05-22": 77,
       "2026-05-26": 335,
       "2026-05-27": 1079,
-      "2026-05-28": 445
+      "2026-05-28": 598
     }
   },
   {
@@ -119,15 +119,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "75.81%",
-    "uptimeWeek": "84.17%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "97.36%",
+    "uptime": "97.32%",
+    "uptimeDay": "65.21%",
+    "uptimeWeek": "82.65%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "97.32%",
     "time": 3403,
-    "timeDay": 1580,
-    "timeWeek": 3484,
-    "timeMonth": 3125,
+    "timeDay": 1555,
+    "timeWeek": 3489,
+    "timeMonth": 3123,
     "timeYear": 3403,
     "dailyMinutesDown": {
       "2025-12-08": 20,
@@ -166,7 +166,7 @@
       "2026-04-13": 50,
       "2026-05-26": 326,
       "2026-05-27": 1060,
-      "2026-05-28": 210
+      "2026-05-28": 363
     }
   }
 ]
