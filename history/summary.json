@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
     "status": "down",
-    "uptime": "93.02%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "93.02%",
+    "uptime": "93.00%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "89.93%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "93.00%",
     "time": 1038,
-    "timeDay": 249,
+    "timeDay": 245,
     "timeWeek": 297,
     "timeMonth": 424,
     "timeYear": 1038,
@@ -51,7 +51,7 @@
       "2026-05-27": 253,
       "2026-05-28": 462,
       "2026-05-29": 77,
-      "2026-05-31": 11
+      "2026-05-31": 81
     }
   },
   {
@@ -60,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "degraded",
-    "uptime": "95.93%",
+    "uptime": "95.92%",
     "uptimeDay": "60.45%",
-    "uptimeWeek": "68.24%",
-    "uptimeMonth": "92.52%",
-    "uptimeYear": "95.93%",
-    "time": 3930,
-    "timeDay": 10097,
-    "timeWeek": 5255,
-    "timeMonth": 3901,
-    "timeYear": 3930,
+    "uptimeWeek": "67.55%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "95.92%",
+    "time": 3934,
+    "timeDay": 15049,
+    "timeWeek": 6258,
+    "timeMonth": 4044,
+    "timeYear": 3934,
     "dailyMinutesDown": {
       "2025-12-12": 65,
       "2025-12-13": 141,
@@ -112,7 +112,7 @@
       "2026-05-28": 768,
       "2026-05-29": 294,
       "2026-05-30": 564,
-      "2026-05-31": 163
+      "2026-05-31": 232
     }
   },
   {
@@ -120,15 +120,15 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "degraded",
-    "uptime": "97.09%",
-    "uptimeDay": "60.59%",
-    "uptimeWeek": "72.49%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "97.09%",
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "60.71%",
+    "uptimeWeek": "71.81%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "97.07%",
     "time": 3410,
-    "timeDay": 11902,
-    "timeWeek": 4769,
+    "timeDay": 12200,
+    "timeWeek": 4774,
     "timeMonth": 3351,
     "timeYear": 3410,
     "dailyMinutesDown": {
@@ -170,7 +170,7 @@
       "2026-05-28": 532,
       "2026-05-29": 130,
       "2026-05-30": 564,
-      "2026-05-31": 161
+      "2026-05-31": 229
     }
   }
 ]
