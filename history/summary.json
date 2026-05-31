@@ -4,16 +4,16 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "up",
+    "status": "down",
     "uptime": "93.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "90.63%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "93.02%",
     "time": 1038,
-    "timeDay": 266,
-    "timeWeek": 295,
-    "timeMonth": 430,
+    "timeDay": 249,
+    "timeWeek": 297,
+    "timeMonth": 424,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -50,7 +50,8 @@
       "2026-05-26": 143,
       "2026-05-27": 253,
       "2026-05-28": 462,
-      "2026-05-29": 77
+      "2026-05-29": 77,
+      "2026-05-31": 11
     }
   },
   {
@@ -59,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "degraded",
-    "uptime": "95.97%",
-    "uptimeDay": "60.62%",
-    "uptimeWeek": "69.82%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "95.97%",
-    "time": 3926,
-    "timeDay": 5202,
-    "timeWeek": 4439,
-    "timeMonth": 3783,
-    "timeYear": 3926,
+    "uptime": "95.93%",
+    "uptimeDay": "60.45%",
+    "uptimeWeek": "68.24%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "95.93%",
+    "time": 3930,
+    "timeDay": 10097,
+    "timeWeek": 5255,
+    "timeMonth": 3901,
+    "timeYear": 3930,
     "dailyMinutesDown": {
       "2025-12-12": 65,
       "2025-12-13": 141,
@@ -111,7 +112,7 @@
       "2026-05-28": 768,
       "2026-05-29": 294,
       "2026-05-30": 564,
-      "2026-05-31": 3
+      "2026-05-31": 163
     }
   },
   {
@@ -120,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "degraded",
-    "uptime": "97.13%",
-    "uptimeDay": "60.72%",
-    "uptimeWeek": "74.07%",
-    "uptimeMonth": "94.03%",
-    "uptimeYear": "97.13%",
-    "time": 3403,
-    "timeDay": 3659,
-    "timeWeek": 3296,
-    "timeMonth": 3121,
-    "timeYear": 3403,
+    "uptime": "97.09%",
+    "uptimeDay": "60.59%",
+    "uptimeWeek": "72.49%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "97.09%",
+    "time": 3410,
+    "timeDay": 11902,
+    "timeWeek": 4769,
+    "timeMonth": 3351,
+    "timeYear": 3410,
     "dailyMinutesDown": {
       "2025-12-09": 17,
       "2025-12-10": 276,
@@ -169,7 +170,7 @@
       "2026-05-28": 532,
       "2026-05-29": 130,
       "2026-05-30": 564,
-      "2026-05-31": 2
+      "2026-05-31": 161
     }
   }
 ]
