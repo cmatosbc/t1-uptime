@@ -11,9 +11,9 @@
     "uptimeMonth": "96.89%",
     "uptimeYear": "92.99%",
     "time": 1036,
-    "timeDay": 290,
-    "timeWeek": 278,
-    "timeMonth": 416,
+    "timeDay": 285,
+    "timeWeek": 277,
+    "timeMonth": 415,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -60,15 +60,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "95.66%",
-    "uptimeDay": "80.48%",
-    "uptimeWeek": "68.06%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "95.66%",
+    "uptime": "95.61%",
+    "uptimeDay": "74.85%",
+    "uptimeWeek": "66.12%",
+    "uptimeMonth": "89.14%",
+    "uptimeYear": "95.61%",
     "time": 3941,
-    "timeDay": 3099,
-    "timeWeek": 7779,
-    "timeMonth": 4335,
+    "timeDay": 3695,
+    "timeWeek": 7881,
+    "timeMonth": 4341,
     "timeYear": 3941,
     "dailyMinutesDown": {
       "2025-12-13": 123,
@@ -114,7 +114,7 @@
       "2026-05-31": 529,
       "2026-06-01": 637,
       "2026-06-02": 271,
-      "2026-06-03": 10
+      "2026-06-03": 206
     }
   },
   {
@@ -122,17 +122,17 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "down",
-    "uptime": "96.94%",
-    "uptimeDay": "81.15%",
-    "uptimeWeek": "74.10%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "96.94%",
-    "time": 3409,
-    "timeDay": 1980,
-    "timeWeek": 4535,
-    "timeMonth": 3373,
-    "timeYear": 3409,
+    "status": "degraded",
+    "uptime": "96.89%",
+    "uptimeDay": "75.50%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "96.89%",
+    "time": 3410,
+    "timeDay": 3744,
+    "timeWeek": 4708,
+    "timeMonth": 3396,
+    "timeYear": 3410,
     "dailyMinutesDown": {
       "2025-12-13": 58,
       "2025-12-14": 30,
@@ -171,7 +171,7 @@
       "2026-05-31": 350,
       "2026-06-01": 623,
       "2026-06-02": 270,
-      "2026-06-03": 2
+      "2026-06-03": 197
     }
   }
 ]
