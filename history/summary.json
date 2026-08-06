@@ -10,11 +10,11 @@
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "94.24%",
-    "time": 1001,
-    "timeDay": 3659,
-    "timeWeek": 979,
-    "timeMonth": 492,
-    "timeYear": 1001,
+    "time": 1000,
+    "timeDay": 3634,
+    "timeWeek": 978,
+    "timeMonth": 491,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-09-15": 31,
       "2025-09-20": 27,
@@ -62,16 +62,16 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=footwear&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
-    "status": "degraded",
-    "uptime": "96.13%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "96.13%",
+    "status": "up",
+    "uptime": "96.10%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "96.10%",
     "time": 3971,
-    "timeDay": 5611,
-    "timeWeek": 4394,
-    "timeMonth": 4425,
+    "timeDay": 5623,
+    "timeWeek": 4391,
+    "timeMonth": 4423,
     "timeYear": 3971,
     "dailyMinutesDown": {
       "2025-12-18": 40,
@@ -129,7 +129,7 @@
       "2026-07-30": 78,
       "2026-07-31": 55,
       "2026-08-03": 70,
-      "2026-08-06": 6
+      "2026-08-06": 160
     }
   },
   {
@@ -137,16 +137,16 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "97.23%",
+    "uptimeDay": "89.22%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "97.23%",
     "time": 3401,
-    "timeDay": 2342,
-    "timeWeek": 3119,
-    "timeMonth": 3253,
+    "timeDay": 2323,
+    "timeWeek": 3114,
+    "timeMonth": 3249,
     "timeYear": 3401,
     "dailyMinutesDown": {
       "2025-12-16": 20,
@@ -189,7 +189,7 @@
       "2026-06-07": 138,
       "2026-06-08": 263,
       "2026-06-25": 120,
-      "2026-08-06": 3
+      "2026-08-06": 155
     }
   }
 ]
