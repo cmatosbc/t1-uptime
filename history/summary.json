@@ -4,16 +4,16 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "up",
+    "status": "down",
     "uptime": "93.75%",
-    "uptimeDay": "2.77%",
-    "uptimeWeek": "73.61%",
+    "uptimeDay": "5.54%",
+    "uptimeWeek": "73.60%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "93.75%",
     "time": 997,
-    "timeDay": 104,
-    "timeWeek": 668,
-    "timeMonth": 451,
+    "timeDay": 107,
+    "timeWeek": 664,
+    "timeMonth": 445,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "95.62%",
+    "uptime": "95.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.38%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "95.62%",
+    "uptimeWeek": "72.98%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "95.61%",
     "time": 3956,
-    "timeDay": 58,
-    "timeWeek": 2494,
-    "timeMonth": 3943,
+    "timeDay": 60,
+    "timeWeek": 2472,
+    "timeMonth": 3932,
     "timeYear": 3956,
     "dailyMinutesDown": {
       "2025-12-19": 96,
@@ -132,7 +132,7 @@
       "2026-08-03": 70,
       "2026-08-06": 160,
       "2026-08-07": 1242,
-      "2026-08-08": 1212
+      "2026-08-08": 1252
     }
   },
   {
@@ -141,15 +141,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
     "status": "down",
-    "uptime": "96.72%",
+    "uptime": "96.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.22%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "96.72%",
+    "uptimeWeek": "72.83%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "96.71%",
     "time": 3388,
-    "timeDay": 53,
-    "timeWeek": 1603,
-    "timeMonth": 2888,
+    "timeDay": 54,
+    "timeWeek": 1589,
+    "timeMonth": 2880,
     "timeYear": 3388,
     "dailyMinutesDown": {
       "2025-12-17": 58,
@@ -193,7 +193,7 @@
       "2026-06-25": 120,
       "2026-08-06": 155,
       "2026-08-07": 1331,
-      "2026-08-08": 1213
+      "2026-08-08": 1253
     }
   }
 ]
