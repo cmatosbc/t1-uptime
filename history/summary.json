@@ -4,16 +4,16 @@
     "url": "https://www.mollys.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
-    "status": "up",
-    "uptime": "92.89%",
-    "uptimeDay": "9.69%",
+    "status": "down",
+    "uptime": "92.90%",
+    "uptimeDay": "11.07%",
     "uptimeWeek": "30.18%",
     "uptimeMonth": "83.93%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "92.90%",
     "time": 991,
-    "timeDay": 267,
-    "timeWeek": 431,
-    "timeMonth": 400,
+    "timeDay": 266,
+    "timeWeek": 428,
+    "timeMonth": 399,
     "timeYear": 991,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -59,7 +59,8 @@
       "2026-08-07": 1407,
       "2026-08-10": 1369,
       "2026-08-09": 1440,
-      "2026-08-11": 1379
+      "2026-08-11": 1379,
+      "2026-08-12": 0
     }
   },
   {
@@ -70,13 +71,13 @@
     "status": "down",
     "uptime": "94.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.45%",
-    "uptimeMonth": "82.40%",
+    "uptimeWeek": "29.25%",
+    "uptimeMonth": "82.35%",
     "uptimeYear": "94.73%",
     "time": 3931,
     "timeDay": 49,
-    "timeWeek": 725,
-    "timeMonth": 3256,
+    "timeWeek": 721,
+    "timeMonth": 3250,
     "timeYear": 3931,
     "dailyMinutesDown": {
       "2025-12-19": 27,
@@ -138,7 +139,7 @@
       "2026-08-10": 1311,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
-      "2026-08-12": 80,
+      "2026-08-12": 100,
       "2026-08-11": 1440
     }
   },
@@ -147,19 +148,18 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "6.01%",
-    "uptimeWeek": "29.11%",
-    "uptimeMonth": "83.69%",
-    "uptimeYear": "95.82%",
+    "status": "down",
+    "uptime": "95.83%",
+    "uptimeDay": "7.28%",
+    "uptimeWeek": "29.09%",
+    "uptimeMonth": "83.68%",
+    "uptimeYear": "95.83%",
     "time": 3367,
-    "timeDay": 156,
-    "timeWeek": 338,
-    "timeMonth": 2397,
+    "timeDay": 155,
+    "timeWeek": 336,
+    "timeMonth": 2392,
     "timeYear": 3367,
     "dailyMinutesDown": {
-      "2025-12-17": 40,
       "2025-12-18": 75,
       "2025-12-19": 41,
       "2025-12-20": 19,
@@ -203,7 +203,8 @@
       "2026-08-10": 1346,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
-      "2026-08-11": 1435
+      "2026-08-11": 1435,
+      "2026-08-12": 2
     }
   }
 ]
