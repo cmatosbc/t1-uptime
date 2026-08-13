@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mollys.com.ico",
     "slug": "molly-s-place",
     "status": "down",
-    "uptime": "92.55%",
+    "uptime": "92.48%",
     "uptimeDay": "13.23%",
-    "uptimeWeek": "13.13%",
-    "uptimeMonth": "79.82%",
-    "uptimeYear": "92.55%",
+    "uptimeWeek": "9.29%",
+    "uptimeMonth": "78.94%",
+    "uptimeYear": "92.48%",
     "time": 989,
-    "timeDay": 127,
+    "timeDay": 139,
     "timeWeek": 121,
-    "timeMonth": 389,
+    "timeMonth": 387,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2025-09-15": 31,
@@ -61,7 +61,7 @@
       "2026-08-09": 1440,
       "2026-08-11": 1379,
       "2026-08-12": 1194,
-      "2026-08-13": 607
+      "2026-08-13": 994
     }
   },
   {
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-footwear",
     "status": "down",
-    "uptime": "94.37%",
-    "uptimeDay": "10.66%",
-    "uptimeWeek": "12.57%",
-    "uptimeMonth": "78.15%",
-    "uptimeYear": "94.37%",
-    "time": 3923,
-    "timeDay": 206,
-    "timeWeek": 205,
-    "timeMonth": 3040,
-    "timeYear": 3923,
+    "uptime": "94.32%",
+    "uptimeDay": "14.57%",
+    "uptimeWeek": "9.29%",
+    "uptimeMonth": "77.67%",
+    "uptimeYear": "94.32%",
+    "time": 3921,
+    "timeDay": 371,
+    "timeWeek": 202,
+    "timeMonth": 3000,
+    "timeYear": 3921,
     "dailyMinutesDown": {
-      "2025-12-20": 176,
+      "2025-12-20": 144,
       "2025-12-21": 166,
       "2025-12-22": 132,
       "2025-12-24": 1415,
@@ -141,7 +141,7 @@
       "2026-08-08": 1440,
       "2026-08-12": 1365,
       "2026-08-11": 1440,
-      "2026-08-13": 576
+      "2026-08-13": 906
     }
   },
   {
@@ -149,17 +149,17 @@
     "url": "https://mollys.com/shop/?yith_wcan=1&product_cat=Shooting-ammunition&inventory=1450",
     "icon": "https://icons.duckduckgo.com/ip3/mollys.com.ico",
     "slug": "molly-s-ammunition",
-    "status": "down",
-    "uptime": "95.45%",
-    "uptimeDay": "2.99%",
-    "uptimeWeek": "11.28%",
-    "uptimeMonth": "79.23%",
-    "uptimeYear": "95.45%",
-    "time": 3359,
-    "timeDay": 133,
+    "status": "up",
+    "uptime": "95.37%",
+    "uptimeDay": "3.14%",
+    "uptimeWeek": "7.46%",
+    "uptimeMonth": "78.35%",
+    "uptimeYear": "95.37%",
+    "time": 3358,
+    "timeDay": 249,
     "timeWeek": 129,
-    "timeMonth": 2241,
-    "timeYear": 3359,
+    "timeMonth": 2212,
+    "timeYear": 3358,
     "dailyMinutesDown": {
       "2025-12-19": 41,
       "2025-12-20": 19,
@@ -205,7 +205,7 @@
       "2026-08-08": 1440,
       "2026-08-11": 1435,
       "2026-08-12": 1266,
-      "2026-08-13": 687
+      "2026-08-13": 1072
     }
   }
 ]
